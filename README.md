@@ -5,3 +5,4 @@
 1. React.js
 2. CSS
 </p>
+NB: The API I made use of is a free version so I might have exhausted the use by the time you are checking this, so do not fret. you can go through the project files if you need any help 👍👍
